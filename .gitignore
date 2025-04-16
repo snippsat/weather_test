@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Local development
+.DS_Store
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project 
